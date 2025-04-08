@@ -29,7 +29,7 @@
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-virzi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white)](https://valentin-virzi.vercel.app/)
 
 <!--
 **valenvirzi/valenvirzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
